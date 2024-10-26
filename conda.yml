@@ -3,6 +3,7 @@ channels:
   - conda-forge
   - defaults
 dependencies:
+  - protobuf=3.20.3
   - python=3.10
   - pyyaml
   - hydra-core=1.3.2
